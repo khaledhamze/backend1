@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAX46vVMSz6ESkkS6aNwisDgAAAAACAAAAAAADZgAAwAAAABAAAADssSi+5wcjgTp/hIQILNtZAAAAAASAAACgAAAAEAAAAGVL32vooR9tgSlRxh+ZwMOAAAAAM52BVxdd3bOZ8ordFpX+5DFrJpMxH+Fy67ofgTIv+1FH/VPXV6ZJNtq+V0ldsX0hulQ5h2Bjvu+tw6K0jktLreLJKNu7Iv9dn6ikI8PsrrqcQnniXAl4Ooz/P/YbgZJOlkOvzwQ3Fb6ObG38QD1Y+ic9GdOxYy4CKmnzcwVJ/lAUAAAAghg3XU6SeceNYTAdtF/6eRg/IIc=</EncryptedPassword>
+    <History>False|2021-11-04T16:32:23.6906312Z;False|2021-11-04T17:22:49.1118331+01:00;False|2021-11-04T17:21:43.3407636+01:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SqlConnection">
+      <Value>Server=tcp:feu20feu20s-sqlserver.database.windows.net,1433%3bInitial Catalog=azure-sql-db%3bPersist Security Info=False%3bUser ID=SqlAdmin%3bPassword=Iman-5208%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
